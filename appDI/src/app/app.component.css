@@ -1,0 +1,20 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.card-title{
+  position: absolute;
+  top: 0;
+  padding: 1em;
+}
+
+.sub-title{
+  position: absolute;
+  top: 45px;
+  font-weight: bolder;
+}
